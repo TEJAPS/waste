@@ -1,7 +1,7 @@
 <?php 
 	
 	
-	$servername = "localhost";
+	$servername = "vikranth";
 	$uname = "root";
 	$pwd = "Vo0xFlDeauPqbeY5";
 	$dbname = "cfg_prac";
