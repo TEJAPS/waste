@@ -1,11 +1,16 @@
 <?php 
 	
 	
-	$servername = "teja";
+
+	$servername = "new teja";
+
+
 	$uname = "root";
 	$pwd = "Vo0xFlDeauPqbeY5";
 	$dbname = "cfg_prac";
 	$conn=new mysqli($servername ,$uname,$pwd,$dbname);
+
+	echo "xyz";
 
 	
 	if ($conn->connect_error) {
