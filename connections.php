@@ -2,7 +2,7 @@
 	
 	
 
-	$servername = "new teja";
+	$servername = "new vikranth";
 
 
 	$uname = "root";
